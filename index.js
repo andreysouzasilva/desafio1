@@ -6,3 +6,5 @@ let chamadaNumerica = [
 ]
 console.log("Nós escolhemos uma senha de segurança para você, com esta lista númerica " + chamadaNumerica )
 console.log("A sua senha é " + chamadaNumerica[2][3] + chamadaNumerica[0][0] + chamadaNumerica[1][2] + ", Guarde sua senha por segurança")
+console.log("Alterações direto do github"
+            
